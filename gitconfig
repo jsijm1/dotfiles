@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jellesijm1@gmail.com
+	name = Jelle Sijm
